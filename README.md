@@ -4,6 +4,8 @@ An example GUI application built with https://github.com/cafaxo/SimInteract.jl.
 
 The simulation shows the dynamics of stochastic descent methods (Metropolis-Hastings or hybrid Monte Carlo) applied to a system of balls with a simple pair-potential.
 
+https://github.com/cafaxo/SimInteractExample.jl/assets/1753343/16123019-86af-4dab-bdba-612d8dab608c
+
 ## Installation
 
 This package is not yet registered. It can be installed by running
